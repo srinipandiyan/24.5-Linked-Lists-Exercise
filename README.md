@@ -180,9 +180,7 @@ circ.printArray()
 // dobby
 ```
 
-## **Want a hint about the data structure? Click below!**
-
-### Click on the > to Reveal
+## **Hint about the data structure!**
 
 **Data Structure**
 
